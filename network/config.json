@@ -10,21 +10,21 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "Marvel"
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "edge",
     "colorLabel": "",
-    "nodeLabel": ""
+    "nodeLabel": "node"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Node Color Multimode"
   },
   "sigma": {
     "drawingProperties": {
