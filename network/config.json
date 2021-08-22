@@ -10,12 +10,12 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "Marvel"
+    "title": ""
   },
   "legend": {
-    "edgeLabel": "edge",
+    "edgeLabel": "",
     "colorLabel": "",
-    "nodeLabel": "node"
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
