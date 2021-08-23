@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Node Color Multimode"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
