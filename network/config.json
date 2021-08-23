@@ -3,19 +3,19 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
+    "file": "images/emory_logo.png",
     "link": "",
     "text": ""
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "<br><br><br><br><br><br>Marvel Super Heros"
   },
   "legend": {
     "edgeLabel": "",
     "colorLabel": "",
-    "nodeLabel": true,
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
@@ -33,10 +33,12 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 6,
       "defaultLabelHoverColor": "#fff",
+      "font":"Times New Roman",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
+      "labelSize": "propotional",
       "defaultLabelSize": 14
     },
     "graphProperties": {
